@@ -1,5 +1,5 @@
 # dio-1-desafio-c-
-1 repositorio para desafio de projeto
+primeiro repositorio para desafio de projeto
 
 ##Links Úteis
 
